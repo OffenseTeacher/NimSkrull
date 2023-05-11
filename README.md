@@ -2,7 +2,7 @@
 <p align="center">
     <img width="500" src="https://github.com/OffenseTeacher/NimSkrull/blob/main/NimSkrull.gif">
 </p>
-An experiment in improving existing anti-copy techniques. This one allows a binary to rewrite itself on disk after the first execution with the hardcoded function ordinals of the current system instead of function names. As with the original POC, the anti-copy technique won't work between Windows systems that have the same versions of system DLLS.
+An experiment in improving existing anti-copy techniques. This one allows a binary to rewrite itself on disk after the first execution with the hardcoded function ordinals of the current system instead of function names. As with the original POC (https://github.com/aaaddress1/Skrull), the anti-copy technique won't work between Windows systems that have the same versions of system DLLS.
 
 For more information regarding Nim Offensive developpment, see: [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 
